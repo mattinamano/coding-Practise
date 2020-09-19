@@ -1,4 +1,4 @@
-O(n^2)
+//O(n^2)
 
 public class Solution {
     public int maxArea(int[] height) {
@@ -11,7 +11,7 @@ public class Solution {
 }
 
 
-O(n)
+//O(n)
 
 public class Solution {
     public int maxArea(int[] height) {
